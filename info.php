@@ -1,3 +1,9 @@
 <?php
 
-phpinfo();
+$pai="mae";
+
+$mae="filho";
+
+echo $$pai;
+
+?>
